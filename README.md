@@ -35,4 +35,4 @@
 
 
 ### Instructions to run frontend
-1. the FRONT-END to youe text editor and just run (ng serve)on port(4200) for angular ((6)) after installing node.js and angualr-cli.
+1. The FRONT-END to your text editor and installing node.js and angualr-cli (npm install --save-dev @angular-devkit/build-angular)go to  run (ng serve --open)
